@@ -12,7 +12,7 @@ I created this for a school assignment on cloud and web technology.
 - [x] Styled with **Markdown**
 - [x] Includes **code blocks**
 - [x] Embedded screenshots
-- [x] Optional: Link to a **WASM app**
+- [x] Link to a **WASM app**
 
 ---
 
